@@ -1,0 +1,9 @@
+dialogflow==0.5.1
+google-api-core==1.17.0
+google-auth==1.14.1
+googleapis-common-protos==1.51.0
+grpcio==1.28.1
+requests==2.23.0
+rsa==4.0
+six==1.14.0
+urllib3==1.25.9
